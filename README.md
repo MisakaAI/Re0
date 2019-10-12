@@ -12,6 +12,7 @@
 ## Project
 
 - Linux
+- Web (HTML/CSS)
 - Git
 - Docker
 - Python
